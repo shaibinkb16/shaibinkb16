@@ -4,7 +4,6 @@
 - Full Stack MEAN Development
 - Advanced IDE Development
 - AI Integration in Software
-- Cloud-based Development
 
 ### 🌱 I’m currently learning
 - Angular
