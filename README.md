@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @shaibinkb16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I’m Shaibin K B
 
-<!---
-shaibinkb16/shaibinkb16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 I’m interested in
+- Full Stack MEAN Development
+- Advanced IDE Development
+- AI Integration in Software
+- Cloud-based Development
+
+### 🌱 I’m currently learning
+- Angular
+- Advanced AI Techniques for IDEs
+
+### 💞️ I’m looking to collaborate on
+- Innovative Web Development Projects
+- AI-powered Software Development
+- Open Source Contributions in MEAN Stack
+
+### 📫 How to reach me
+- [Email](mailto:shaibinkb16.com)
+- [LinkedIn](https://www.linkedin.com/in/shaibin-kb-6a9761251)
+
+### 😄 Pronouns: He/Him
+
+### ⚡ Fun fact:
+- I am passionate about integrating cutting-edge AI technologies into everyday software to enhance user experience and efficiency.
