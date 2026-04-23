@@ -24,7 +24,7 @@
 class ShaibinKB:
     role        = "AI Engineer | GenAI | Computer Vision | Multi-Agent Systems"
     location    = "Kochi, Kerala, India"
-    experience  = "10+ months in production AI systems"
+    experience  = "11+ months in production AI systems"
     open_to     = ["AI/ML Engineer", "GenAI Engineer", "MLOps", "Backend (AI)"]
 
     stack = {
