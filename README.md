@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:0e4f5e,100:3b2d6e&height=180&section=header&text=Shaibin%20K%20B&fontSize=52&fontColor=22d3ee&fontAlignY=3[...]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:0e4f5e,100:3b2d6e&height=180&section=header&text=Shaibin%20K%20B&fontSize=52&fontColor=22d3ee&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&random=false&width=680&lines=AI+Engineer+%7C+1%2B+year+prod[...]
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&random=false&width=680&lines=AI+Engineer+%7C+1%2B+year+production+experience;LangGraph+%C2%B7+MCP+%C2%B7+Multi-Agent+Systems+%C2%B7+RAG;Voice+AI+%C2%B7+LiveKit+%C2%B7+Whisper+%C2%B7+WebRTC;Computer+Vision+%C2%B7+CLIP+%C2%B7+BLIP+%C2%B7+YOLOv8;Building+AI+that+ships%2C+scales+and+stays+up" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -67,7 +67,7 @@ class ShaibinKB:
 
 **Junior AI Engineer**
 
-- Architected a **production Multi-Agent AI Voice Platform** using LiveKit, WebRTC, MCP, and LangGraph — processing **1000+ daily voice conversations** with **98% uptime** and **sub-500ms latenc[...]
+- Architected a **production Multi-Agent AI Voice Platform** using LiveKit, WebRTC, MCP, and LangGraph — processing **1000+ daily voice conversations** with **98% uptime** and **sub-500ms latency**
 - Built **4 specialized AI agents** (IntroAgent, HRAgent, ITSupportAgent, LMSAgent) with RAG-powered vector search using Amazon Bedrock, FAISS, and AWS S3 across **10,000+ enterprise documents**
 - Built **CNN-based person retrieval system** using CLIP, ResNet-50, and BLIP for cross-modal search — **91% top-5 retrieval accuracy** across 50,000+ images
 - Implemented **voice AI pipeline** using Whisper (STT) + GPT-4o (NLU) + OpenAI TTS achieving **94% transcription accuracy** for Indian English accents
@@ -179,13 +179,13 @@ class ShaibinKB:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shaibinkb16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee&icon_color=a78bfa&tex[...]
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shaibinkb16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee&icon_color=a78bfa&text_color=a1a1aa&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaibinkb16&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=[...]
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaibinkb16&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=a1a1aa&langs_count=7"/>
 
 <br/><br/>
 
-<img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaibinkb16&theme=tokyonight&hide_border=true&background=09090b&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=[...]
+<img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaibinkb16&theme=tokyonight&hide_border=true&background=09090b&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee"/>
 
 <br/><br/>
 
